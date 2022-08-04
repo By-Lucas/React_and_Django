@@ -1,0 +1,10 @@
+Após instalar o node.js verificar - 
+node -v
+npm -v
+npx -v
+
+Criar aplicação react - 
+npx create-react-app frontend
+
+Rodar aplicação react - 
+npm start / yarn start

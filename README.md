@@ -1,4 +1,5 @@
-# Conect Django with React
+# Conectando React e Django
+## Basico
 
 **Instalar bibliotecasdentro da pasta beckend**
 ~~~ shell
